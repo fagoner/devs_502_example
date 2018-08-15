@@ -1,4 +1,4 @@
-# Docker examples for DEVOPS 502
+# Docker examples for DEVS 502
 
 - 01_docker_nginx: run a simple nginx
 - 02_docker_nginx: run a container, stop, restart
